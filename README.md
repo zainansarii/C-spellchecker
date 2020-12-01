@@ -1,1 +1,1 @@
-# Spellchecker
+# Spellcheck
